@@ -8,6 +8,9 @@ Given a list of 2-D points, and a cluster number, K, the task is to partition th
 This code runs from the command line and requires the following arguments from command line upon running
 
 argv[1]: inFile.txt
+
 argv[2]: the number of clustering groups
+
 argv[3]: outFile1.txt is created when specified and it will display the 2d results after each iteration
+
 argv[4]: outFile2.txt is created when specified and it will display each point and what centroid it will belong to (closest to) after each iteration
